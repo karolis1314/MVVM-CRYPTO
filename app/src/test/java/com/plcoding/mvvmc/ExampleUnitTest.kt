@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt
+package com.plcoding.mvvmc
 
 import org.junit.Test
 
